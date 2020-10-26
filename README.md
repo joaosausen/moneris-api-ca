@@ -1,3 +1,9 @@
+# This is a fork!
+
+The original code throws warnings and notices on most recent PHP, this fork aims into fixing the php standard.
+
+# Original README below.
+
 # Moneris API (Canada) library
 
 Improved Moneris library for Moneris API (Canada) payment method.
